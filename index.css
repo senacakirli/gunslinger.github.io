@@ -34,9 +34,7 @@ header {
 }
 
 img {
-    width: 100%;
     height: fit-content;
-    margin: 0 100px;
     padding: 4px;
     border: 4px #000000 dashed;
 }
